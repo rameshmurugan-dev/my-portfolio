@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
-import projectImage from "../assets/project.png";
+import projectImage from "../assets/project.webp";
 import {
   ExternalLink,
   Github,

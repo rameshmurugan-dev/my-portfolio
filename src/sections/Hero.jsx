@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Mail } from "lucide-react";
-import myPhoto from "../assets/my-photo.png";
+import myPhoto from "../assets/my-photo.webp";
 import { RESUME_URL } from "../constants/resume";
 import { FaReact, FaJava } from "react-icons/fa";
 import { SiSpringboot, SiTailwindcss } from "react-icons/si";

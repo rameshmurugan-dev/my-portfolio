@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profileImg from "../assets/my-profile.jpg";
+import profileImg from "../assets/my-profile.webp";
 
 export default function About() {
   return (
